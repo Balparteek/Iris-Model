@@ -1,0 +1,40 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Environment variables
+.env
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Editor / IDE settings
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Model files
+*.pkl
+*.joblib
+
+# Data files (optional – uncomment if needed)
+# *.csv
+# *.xlsx
+
+# Temporary files
+*.tmp
+*.swp
+EOF
+
